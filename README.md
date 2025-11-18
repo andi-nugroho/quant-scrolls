@@ -40,7 +40,5 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 
 Thanks to these folks for curating and contributing to this collection:
 
-- [dhruvsol](https://github.com/dhruvsol)
-- [0xahzam](https://github.com/0xahzam)
-- [0xPraedico](https://github.com/0xPraedico)
-- [LordGhostX](https://github.com/LordGhostX)
+- [andidelouise](https://github.com/andi-nugroho)
+- [thruvsol](https://github.com/thruvsol)
